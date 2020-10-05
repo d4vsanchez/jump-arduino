@@ -20,17 +20,20 @@ To run this project you must have the following items:
 2. Open `jump.ino` with Arduino IDE.
 3. Upload it to your Arduino UNO.
 
+## Breadboard view
+
+![Breadboard image](https://raw.github.com/d4vsanchez/jump-arduino/main/schematics/schematic.jpg)
+
 ## How does this work?
 
 [I made a tweet about this](https://twitter.com/d4vsanchez/status/1312879111346544641).
-
 
 ## To Do list
 
 The following items are missing to say this is v1 release:
 
-[] I may have a bug somewhere because the LCD flickers strangely in the "Game Over" message.
-[] A better animation when the ball jumps.
-[] A blog entry explaining how I did it.
-[] Better screenshots to show what does this do.
-[] Cleaning up code.
+[ ] I may have a bug somewhere because the LCD flickers strangely in the "Game Over" message.
+[ ] A better animation when the ball jumps.
+[ ] A blog entry explaining how I did it.
+[ ] Better screenshots to show what does this do.
+[ ] Cleaning up code.
