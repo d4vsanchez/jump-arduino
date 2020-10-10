@@ -26,14 +26,15 @@ To run this project you must have the following items:
 
 ## How does this work?
 
-[I made a tweet about this](https://twitter.com/d4vsanchez/status/1312879111346544641).
+- [I made a tweet about this](https://twitter.com/d4vsanchez/status/1312879111346544641).
+
+- [I also made an article with a bit of explanation about how it works](https://dev.to/d4vsanchez/i-made-a-small-game-in-arduino-akp)
 
 ## To Do list
 
 The following items are missing to say this is v1 release:
 
-[ ] I may have a bug somewhere because the LCD flickers strangely in the "Game Over" message.
-[ ] A better animation when the ball jumps.
-[ ] A blog entry explaining how I did it.
-[ ] Better screenshots to show what does this do.
-[ ] Cleaning up code.
+- I may have a bug somewhere because the LCD flickers strangely in the "Game Over" message.
+- A better animation when the ball jumps.
+- A blog entry explaining how I did it.
+- Better screenshots to show what does this do.
